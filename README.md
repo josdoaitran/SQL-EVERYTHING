@@ -18,3 +18,7 @@ We use basic command to make query to get data from Batabase.
 `
 select * from table_name;
 `
+### Issues / Problems and Solutions
+
+1. Close all of connections to Postgres database server.
+Solutions:
