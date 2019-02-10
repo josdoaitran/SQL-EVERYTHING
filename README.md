@@ -12,7 +12,7 @@ SQL Tools:
 + Free:
 + License: Navicat Prenium
 
-### Querry 
+### Query 
 
 We use basic command to make query to get data from Batabase.
 `
