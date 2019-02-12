@@ -20,5 +20,7 @@ select * from table_name;
 `
 ### Issues / Problems and Solutions
 
-1. Close all of connections to Postgres database server.
+*1. Close all of connections to Postgres database server.*
+
 Solutions:
+https://github.com/josdoaitran/SQL-EVERYTHING/blob/master/ClearSessionConnectToPostgreSQL.md
