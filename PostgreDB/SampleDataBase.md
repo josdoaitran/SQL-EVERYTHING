@@ -33,7 +33,7 @@ There are 15 tables in the DVD Rental database:
 
 Download PostgreSQL sample: http://www.postgresqltutorial.com/wp-content/uploads/2017/10/dvdrental.zip
 
-The database file is in zipformat _( dvdrental.zip)_ so you need to extract it to  _dvdrental.tar_
+The database file is in zipformat ```( dvdrental.zip)``` so you need to extract it to  ```dvdrental.tar```
 
 **Download printable ER diagram**
 Besides the sample database, we also provide you with a printable ER diagram in PDF format.You can download and print the ER diagram for reference while practicing with PostgreSQL.
