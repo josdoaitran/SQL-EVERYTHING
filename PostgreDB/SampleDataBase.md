@@ -35,7 +35,10 @@ Download PostgreSQL sample: http://www.postgresqltutorial.com/wp-content/uploads
 
 The database file is in zipformat _( dvdrental.zip)_ so you need to extract it to  _dvdrental.tar_
 
+**Download printable ER diagram**
+Besides the sample database, we also provide you with a printable ER diagram in PDF format.You can download and print the ER diagram for reference while practicing with PostgreSQL.
 
+http://www.postgresqltutorial.com/wp-content/uploads/2018/03/printable-postgresql-sample-database-diagram.pdf
 
 *References:*
 
