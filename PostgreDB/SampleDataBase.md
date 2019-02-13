@@ -31,7 +31,7 @@ There are 15 tables in the DVD Rental database:
 + city – stores the city names.
 + country – stores the country names.
 
-
+Download PostgreSQL sample: http://www.postgresqltutorial.com/wp-content/uploads/2017/10/dvdrental.zip
 
 *References:*
 
